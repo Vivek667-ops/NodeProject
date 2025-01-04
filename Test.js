@@ -14,5 +14,5 @@ function sum(...args) {
     }
     return {"sum of Even ": sumE, "sum of Odd ":sumO};
   }
-  
+  let x= sum(x+y); 
 console.log("first",sum(4, 9, 16, 25, 29, 100, 66, 77))
